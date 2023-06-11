@@ -28,8 +28,8 @@
     "rating": {
       "rate": 4.1,
       "count": 259,
-          },
-      "Name": "Strawberry jam",
+    },
+    "Name": "Strawberry jam",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
       "Type3": "Egyptian",
@@ -47,8 +47,8 @@
     "rating": {
       "rate": 4.7,
       "count": 500,
-          },
-      "Name": "Apple",
+    },
+    "Name": "Apple",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
       "Type3": "Egyptian",
@@ -66,8 +66,8 @@
     "rating": {
       "rate": 2.1,
       "count": 430,
-          },
-      "Name": "Strawberry",
+    },
+    "Name": "Strawberry",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
       "Type3": "Egyptian",
