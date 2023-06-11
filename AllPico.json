@@ -28,6 +28,7 @@
     "rating": {
       "rate": 4.1,
       "count": 259,
+          },
       "Name": "Strawberry jam",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -35,7 +36,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
   {
     "id": 3,
@@ -47,6 +47,7 @@
     "rating": {
       "rate": 4.7,
       "count": 500,
+          },
       "Name": "Apple",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -54,7 +55,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
   {
     "id": 4,
@@ -66,6 +66,7 @@
     "rating": {
       "rate": 2.1,
       "count": 430,
+          },
       "Name": "Strawberry",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -73,7 +74,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
   {
     "id": 5,
@@ -85,6 +85,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "Clover",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -92,7 +93,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
       {
     "id": 6,
@@ -104,6 +104,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "lettuce",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -111,7 +112,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
       {
     "id": 7,
@@ -123,6 +123,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "Strawberry",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -130,7 +131,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
       {
     "id": 8,
@@ -142,6 +142,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "Avocado",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -149,7 +150,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
       {
     "id": 9,
@@ -161,6 +161,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "Apple",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -168,7 +169,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
   {
     "id": 10,
@@ -180,6 +180,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "lettuce",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -187,7 +188,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
       {
     "id": 11,
@@ -199,6 +199,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "Hony",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -206,7 +207,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
       {
     "id": 12,
@@ -218,6 +218,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "Strawberry jam",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -225,7 +226,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
       {
     "id": 13,
@@ -237,6 +237,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "Strawberry ",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -244,7 +245,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
       {
     "id": 14,
@@ -256,6 +256,7 @@
     "rating": {
       "rate": 4.6,
       "count": 400,
+          },
       "Name": "lettuse ",
       "Type1": "Grany Smit",
       "Type2": "Stark Spur Golden",
@@ -263,7 +264,6 @@
       "Type4": "Fuji",
       "Type5": "Stark Spur Golden",
       "Type6": "local"
-    }
   },
         {
       "id": 15,
@@ -275,6 +275,7 @@
       "rating": {
         "rate": 4.6,
         "count": 400,
+            },
         "Name": "Apple ",
         "Type1": "Grany Smit",
         "Type2": "Stark Spur Golden",
@@ -282,7 +283,6 @@
         "Type4": "Fuji",
         "Type5": "Stark Spur Golden",
         "Type6": "local"
-      }
     },
         {
       "id": 16,
@@ -294,6 +294,7 @@
       "rating": {
         "rate": 4.6,
         "count": 400,
+            },
         "Name": "Hony ",
         "Type1": "Grany Smit",
         "Type2": "Stark Spur Golden",
@@ -301,7 +302,6 @@
         "Type4": "Fuji",
         "Type5": "Stark Spur Golden",
         "Type6": "local"
-      }
     },
         {
       "id": 17,
@@ -313,6 +313,7 @@
       "rating": {
         "rate": 4.6,
         "count": 400,
+      },
         "Name": "Strawberry jam",
         "Type1": "Grany Smit",
         "Type2": "Stark Spur Golden",
@@ -320,7 +321,6 @@
         "Type4": "Fuji",
         "Type5": "Stark Spur Golden",
         "Type6": "local"
-      }
     },
         {
       "id": 18,
@@ -332,6 +332,7 @@
       "rating": {
         "rate": 4.6,
         "count": 400,
+            },
         "Name": "breeder",
         "Type1": "Grany Smit",
         "Type2": "Stark Spur Golden",
@@ -339,7 +340,6 @@
         "Type4": "Fuji",
         "Type5": "Stark Spur Golden",
         "Type6": "local"
-      }
     },
         {
       "id": 19,
@@ -351,6 +351,7 @@
       "rating": {
         "rate": 4.6,
         "count": 400,
+            },
         "Name": "breeder",
         "Type1": "Grany Smit",
         "Type2": "Stark Spur Golden",
@@ -358,6 +359,5 @@
         "Type4": "Fuji",
         "Type5": "Stark Spur Golden",
         "Type6": "local"
-      }
     }
 ]
