@@ -27,7 +27,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/df13ce731309d8b051585727b410c501.png",
     "rating": {
       "rate": 4.1,
-      "count": 259,
+      "count": 259
     },
     "Name": "Strawberry jam",
       "Type1": "Grany Smit",
@@ -46,7 +46,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/e5b339c408f1cba7bd34e1c9c28f50b7.jpeg",
     "rating": {
       "rate": 4.7,
-      "count": 500,
+      "count": 500
     },
     "Name": "Apple",
       "Type1": "Grany Smit",
@@ -65,7 +65,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/568d129d3b579ce3f44e79d68075615c.png",
     "rating": {
       "rate": 2.1,
-      "count": 430,
+      "count": 430
     },
     "Name": "Strawberry",
       "Type1": "Grany Smit",
@@ -84,7 +84,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/5952a175a4d9bfa90952ac67b268cd9f.jpeg",
     "rating": {
       "rate": 4.6,
-      "count": 400,
+      "count": 400
           },
       "Name": "Clover",
       "Type1": "Grany Smit",
@@ -103,7 +103,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/9dc161af82f9a91f5cf1e9ed8b9c3a7e.jpeg",
     "rating": {
       "rate": 4.6,
-      "count": 400,
+      "count": 400
           },
       "Name": "lettuce",
       "Type1": "Grany Smit",
@@ -122,7 +122,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/ea4ce983f3e94d193e5355d6fce2f283.jpeg",
     "rating": {
       "rate": 4.6,
-      "count": 400,
+      "count": 400
           },
       "Name": "Strawberry",
       "Type1": "Grany Smit",
@@ -141,7 +141,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/ea4ce983f3e94d193e5355d6fce2f283.jpeg",
     "rating": {
       "rate": 4.6,
-      "count": 400,
+      "count": 400
           },
       "Name": "Avocado",
       "Type1": "Grany Smit",
@@ -160,7 +160,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/c057aae9319b931152a3100b626404c1.jpeg",
     "rating": {
       "rate": 4.6,
-      "count": 400,
+      "count": 400
           },
       "Name": "Apple",
       "Type1": "Grany Smit",
@@ -179,7 +179,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/e5b339c408f1cba7bd34e1c9c28f50b7.jpeg",
     "rating": {
       "rate": 4.6,
-      "count": 400,
+      "count": 400
           },
       "Name": "lettuce",
       "Type1": "Grany Smit",
@@ -217,7 +217,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/bc744e0ec41fc4e07f57122ac50325c1.jpeg",
     "rating": {
       "rate": 4.6,
-      "count": 400,
+      "count": 400
           },
       "Name": "Strawberry jam",
       "Type1": "Grany Smit",
@@ -236,7 +236,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/df13ce731309d8b051585727b410c501.png",
     "rating": {
       "rate": 4.6,
-      "count": 400,
+      "count": 400
           },
       "Name": "Strawberry ",
       "Type1": "Grany Smit",
@@ -255,7 +255,7 @@
     "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/ea4ce983f3e94d193e5355d6fce2f283.jpeg",
     "rating": {
       "rate": 4.6,
-      "count": 400,
+      "count": 400
           },
       "Name": "lettuse ",
       "Type1": "Grany Smit",
@@ -274,7 +274,7 @@
       "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/9dc161af82f9a91f5cf1e9ed8b9c3a7e.jpeg",
       "rating": {
         "rate": 4.6,
-        "count": 400,
+        "count": 400
             },
         "Name": "Apple ",
         "Type1": "Grany Smit",
@@ -293,7 +293,7 @@
       "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/e5b339c408f1cba7bd34e1c9c28f50b7.jpeg",
       "rating": {
         "rate": 4.6,
-        "count": 400,
+        "count": 400
             },
         "Name": "Hony ",
         "Type1": "Grany Smit",
@@ -312,7 +312,7 @@
       "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/ea4ce983f3e94d193e5355d6fce2f283.jpeg",
       "rating": {
         "rate": 4.6,
-        "count": 400,
+        "count": 400
       },
         "Name": "Strawberry jam",
         "Type1": "Grany Smit",
@@ -331,7 +331,7 @@
       "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/9dc161af82f9a91f5cf1e9ed8b9c3a7e.jpeg",
       "rating": {
         "rate": 4.6,
-        "count": 400,
+        "count": 400
             },
         "Name": "breeder",
         "Type1": "Grany Smit",
@@ -350,7 +350,7 @@
       "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/e5b339c408f1cba7bd34e1c9c28f50b7.jpeg",
       "rating": {
         "rate": 4.6,
-        "count": 400,
+        "count": 400
             },
         "Name": "breeder",
         "Type1": "Grany Smit",
